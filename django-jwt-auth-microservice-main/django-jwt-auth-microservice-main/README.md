@@ -19,7 +19,7 @@ Tools: Python, pip, Django REST JWT
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/django-jwt-auth-microservice.git
+
 cd django-jwt-auth-microservice
 2. Set Up Virtual Environment
 Create and activate a virtual environment:
